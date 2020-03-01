@@ -4,5 +4,5 @@ task :hello do
 end
 
 task :environment do
-  require_relative './environment.rb'
+  # require_relative './environment.rb'
 end
