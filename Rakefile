@@ -20,7 +20,7 @@ end
 namespace :db do
   task :migrate => :environment do
     require_relative './db/students.db'
-  
+
   end
 
 end
