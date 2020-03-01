@@ -14,7 +14,7 @@ task :environment do
 end
 
 task :console => :environment do
-  
+
 end
 
 namespace :db do
